@@ -2,6 +2,6 @@
 class mango{
 	public static void main{String args[]}{
 		
-		System.out.println("Hello there"):
+		System.out.println("Nandu ate a mango"):
 }
 }
